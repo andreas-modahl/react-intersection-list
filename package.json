@@ -53,8 +53,8 @@
   "main": "lib/js/index.js",
   "module": "lib/es/index.js",
   "peerDependencies": {
-    "react": "^16.3.2",
-    "react-dom": "^16.3.2"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
   "repository": {
     "type": "git",
